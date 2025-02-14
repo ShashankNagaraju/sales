@@ -19,4 +19,4 @@ This is a simple **Sales Prediction** web application built using **Streamlit** 
 pip install streamlit scikit-learn pandas numpy
 
 
-```bash
+
